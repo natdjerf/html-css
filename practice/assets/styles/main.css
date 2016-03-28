@@ -1,0 +1,11 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+navbar li {
+  display: inline;
+  margin: 50px;
+  text-align: center;
+
+}
